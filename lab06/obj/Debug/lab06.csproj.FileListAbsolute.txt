@@ -1,0 +1,12 @@
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.csproj.AssemblyReference.cache
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.Control.resources
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.ClientForm.resources
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.ServerForm.resources
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.Properties.Resources.resources
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.csproj.GenerateResource.cache
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.csproj.CoreCompileInputs.cache
+C:\Users\sang\source\repos\lab06\lab06\bin\Debug\lab06.exe.config
+C:\Users\sang\source\repos\lab06\lab06\bin\Debug\lab06.exe
+C:\Users\sang\source\repos\lab06\lab06\bin\Debug\lab06.pdb
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.exe
+C:\Users\sang\source\repos\lab06\lab06\obj\Debug\lab06.pdb

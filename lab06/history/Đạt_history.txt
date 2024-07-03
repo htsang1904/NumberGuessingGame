@@ -1,0 +1,28 @@
+>>> Sang vừa vào phòng
+>>> Đạt vừa vào phòng
+---- Sang đã sẵn sàng! ----
+---- Đạt đã sẵn sàng! ----
+>>>> Vòng thứ 1: Đoán số trong vùng [46, 88]. <<<<
+Không ai có đáp án chính xác
+Đáp án là: 81.
+----------0o0----------
+>>>> Vòng thứ 2: Đoán số trong vùng [9, 15]. <<<<
+Sang là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 14.
+----------0o0----------
+>>>> Vòng thứ 3: Đoán số trong vùng [18, 37]. <<<<
+Không ai có đáp án chính xác
+Đáp án là: 23.
+----------0o0----------
+>>>> Vòng thứ 4: Đoán số trong vùng [38, 71]. <<<<
+Không ai có đáp án chính xác
+Đáp án là: 63.
+----------0o0----------
+>>>> Vòng thứ 5: Đoán số trong vùng [36, 52]. <<<<
+Sang là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 51.
+----------0o0----------
+>>>> Vòng thứ 6: Đoán số trong vùng [17, 60]. <<<<
+Không ai có đáp án chính xác
+Đáp án là: 30.
+----------0o0
